@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Next.js, TypeScript, React, Vue, and GSAP**
 
-- 🤝 I’m looking for help with **froent performance optimization**
+- 🤝 I’m looking for help with **front-end optimization**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aman-Bam](https://github.com/Aman-Bam)
 
-- 💬 Ask me about **html , css , c , c++ , python etc**
+- 💬 Ask me about **💬 Ask me about html , css , c , c++ , python etc**
 
 - 📫 How to reach me **amanbam6040@gmail.com**
 
