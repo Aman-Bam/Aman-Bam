@@ -33,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman-bam&show_icons=true&locale=en" alt="aman-bam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-bam&" alt="aman-bam" /></p>
+
+![Followers](https://img.shields.io/github/followers/Aman-Bam?label=Follow&style=social)
