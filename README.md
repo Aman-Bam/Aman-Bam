@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aman-Bam](https://github.com/Aman-Bam)
 
-**💬 Ask me about html , css , c , c++ , python etc**
+- **💬 Ask me about html , css , c , c++ , python etc**
 
 - 📫 How to reach me **amanbam6040@gmail.com**
 
