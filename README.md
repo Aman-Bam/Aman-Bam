@@ -28,7 +28,7 @@
 
 | Name | Description | Tech Stack |
 |------|-------------|------------|
-| 🎨 [APJ Abdul kalam](https://github.com/Aman-Bam/Dr.-A.P.J.-Abdul-Kalam) | Dr.-A.P.J.-Abdul-Kalam| HTML, TailwindCSS, JS |
+| 🎨 [APJ Abdul kalam](https://github.com/Aman-Bam/Dr.-A.P.J.-Abdul-Kalam) | Dr.-A.P.J.-Abdul-Kalam| HTML, CSS, JS |
 | 🎮 [Elibrary-Management](https://github.com/Aman-Bam/elibrary-management) | console-based E-Library Management System written in C++.|C++ (Standard Library) Console-based UI |
 | 🧾 [A Simple Sticky Notes App with Dark Mode](https://github.com/Aman-Bam/A-Simple-Sticky-Notes-App-with-Dark-Mode) | create, view, and manage sticky notes directly in your browser | HTML5, CSS, JAVASCRIPT |
 
