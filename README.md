@@ -80,7 +80,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Let's+build+awesome+things+together!;Open+to+collaboration+and+internships+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=Let's+build+awesome+things+together!;Open+to+collaboration+and+internships+🚀" alt="Typing SVG" />
 </p>
 
 
