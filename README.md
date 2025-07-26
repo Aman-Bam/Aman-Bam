@@ -28,7 +28,7 @@
 
 | Name | Description | Tech Stack |
 |------|-------------|------------|
-| 🎨 [APJ Abdul kalam](https://github.com/Aman-Bam/Dr.-A.P.J.-Abdul-Kalam) | Dr.-A.P.J.-Abdul-Kalam| HTML, CSS, JS |
+| 🎨 [New Genration portfolio](https://aman-bam.github.io/Next-Gen-Portfolio/) | My portfolio | HTML, CSS, JS |
 | 🎮 [Elibrary-Management](https://github.com/Aman-Bam/elibrary-management) | console-based E-Library Management System written in C++.|C++ (Standard Library) Console-based UI |
 | 🧾 [A Simple Sticky Notes App with Dark Mode](https://github.com/Aman-Bam/A-Simple-Sticky-Notes-App-with-Dark-Mode) | create, view, and manage sticky notes directly in your browser | HTML5, CSS, JAVASCRIPT |
 | 🍷 [Delicious Bites Restaurant](https://github.com/Aman-Bam/Delicious-Bites-Restaurant) |  A visually stunning, interactive, and modern restaurant website with advanced features,| HTML, CSS, and JavaScript |
