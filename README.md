@@ -30,8 +30,8 @@
 |------|-------------|------------|
 | 🎨 [New Genration portfolio](https://aman-bam.github.io/Next-Gen-Portfolio/) | My portfolio | HTML, CSS, JS |
 | 🎮 [Weather app](https://aman-bam.github.io/Weather_App/) | Weather application  | HTML CSS JS |
-| 🧾 [A Simple Sticky Notes App with Dark Mode](https://github.com/Aman-Bam/A-Simple-Sticky-Notes-App-with-Dark-Mode) | create, view, and manage sticky notes directly in your browser | HTML5, CSS, JAVASCRIPT |
-| 🍷 [Delicious Bites Restaurant](https://github.com/Aman-Bam/Delicious-Bites-Restaurant) |  A visually stunning, interactive, and modern restaurant website with advanced features,| HTML, CSS, and JavaScript |
+| 🧾 [Apple Landing Page](https://aman-bam.github.io/Apple_landing_page/) | Premiun landing page  | HTML5, CSS, JAVASCRIPT |
+| 🍷 [Delicious Bites Restaurant](https://aman-bam.github.io/Delicious-Bites-Restaurant/) |  A visually stunning, interactive, and modern restaurant website with advanced features,| HTML, CSS, and JavaScript |
 ---
 
 ## 🌐 Connect With Me
