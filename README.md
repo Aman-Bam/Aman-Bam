@@ -22,20 +22,18 @@
 
 ---
 
-## 🔥 **Live Performance Metrics**
-
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aman-Bam&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Bam&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-
+⚡ Real-Time Performance Matrix
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=Aman-Bam&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=00D9FF&text_color=FFFFFF&border_radius=10&custom_title=💻%20Code%20Arsenal"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Bam&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&border_radius=10&custom_title=🎯%20Tech%20Stack%20Mastery"/>
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Aman-Bam&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
-
+🔥 Developer Streak Engine
+Show Image
 </div>
+
+<div align="center">
 
 ## 🚀 **Featured Project Showcase**
 
@@ -161,14 +159,11 @@
 
 ### 🤝 **Let's Connect & Build Together**
 
-<a href="https://www.linkedin.com/in/aman-bam-143761371" target="_blank">
+<a href="https://www.linkedin.com/in/aman-bam-143761371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://instagram.com/amanbam__" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://twitter.com/AmanBam__" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
 <a href="https://discord.gg/yourdiscord" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
