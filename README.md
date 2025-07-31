@@ -230,23 +230,6 @@ Show Image
 <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 
-## 💝 **Support My Work**
-
-<div align="center">
-
-If you find my projects helpful, consider supporting my work:
-
-<a href="https://www.buymeacoffee.com/amanbam" target="_blank">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-</a>
-<a href="https://ko-fi.com/amanbam" target="_blank">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" />
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### 🌟 **"Innovation distinguishes between a leader and a follower."** - *Steve Jobs*
