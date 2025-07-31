@@ -191,7 +191,7 @@
 
 ### 🚀 **Short Term**
 - Building AI-powered web apps
-- Contributing to major OSS projects
+- Contributing to major  projects
 - Mastering cloud architecture
 - Growing developer community
 
@@ -234,14 +234,6 @@
 <img src="https://img.shields.io/badge/Terminal-Zsh-1DA1F2?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Zsh" />
 <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-
-### 🏆 **Achievement Unlocked**
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Bam&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
-</div>
-
----
 
 ## 💝 **Support My Work**
 
