@@ -1,95 +1,273 @@
-<h1 align="center">Hi 👋, I'm Aman Bam</h1>
-<h3 align="center">🚀 Full Stack Developer | 🌐 Web Enthusiast | 🇮🇳 Based in India</h3>
+<div align="center">
+  
+# 🌟 Aman Bam
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aman-Bam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Tech+Innovation+Explorer" alt="Dynamic Typing" />
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aman-Bam&theme=darkhub&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=Aman-Bam&label=Profile%20Views&color=00d9ff&style=for-the-badge)](https://github.com/Aman-Bam)
+[![GitHub User's stars](https://img.shields.io/github/stars/Aman-Bam?label=Total%20Stars&style=for-the-badge&color=00d9ff)](https://github.com/Aman-Bam)
+</div>
+
+## 🛡️ **GitHub Achievement Showcase**
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aman-Bam&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🔥 **Live Performance Metrics**
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aman-Bam&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Bam&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Aman-Bam&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+
+</div>
+
+## 🚀 **Featured Project Showcase**
+
+<div align="center">
+
+### 🌟 **Premium Portfolio Collection**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">🎨 Next-Gen Portfolio</h3>
+<div align="center">
+  <a href="https://aman-bam.github.io/Next-Gen-Portfolio/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge" />
   </a>
-</p>
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently working on: **Personal Portfolio & UI Projects**
-- 🌱 Learning: **Next.js | TypeScript | GSAP | Vue**
-- 🛠️ Tools I Use: **TailwindCSS | Git | Linux | Python | JS | C/C++**
-- 💡 Passionate about: **Clean UI, Fast Performance & Learning New Tech**
-- 📫 Reach out: **amanbam6040@gmail.com**
-- ⚡ Fun Fact: *Keyboard shortcuts are my second language ⌨️😄*
-
----
-
-## 📂 Featured Projects
-
-| Name | Description | Tech Stack |
-|------|-------------|------------|
-| 🎨 [New Genration portfolio](https://aman-bam.github.io/Next-Gen-Portfolio/) | My portfolio | HTML, CSS, JS |
-| 🎮 [Weather app](https://aman-bam.github.io/Weather_App/) | Weather application  | HTML CSS JS |
-| 🧾 [Apple Landing Page](https://aman-bam.github.io/Apple_landing_page/) | Premiun landing page  | HTML5, CSS, JAVASCRIPT |
-| 🍷 [Delicious Bites Restaurant](https://aman-bam.github.io/Delicious-Bites-Restaurant/) |  A visually stunning, interactive, and modern restaurant website with advanced features,| HTML, CSS, and JavaScript |
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aman-bam-143761371" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://github.com/Aman-Bam/Next-Gen-Portfolio">
+    <img src="https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/amanbam__" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram" />
+</div>
+
+**Features:**
+- ⚡ Lightning-fast performance
+- 🎭 Interactive animations
+- 📱 Fully responsive design
+- 🎨 Modern UI/UX patterns
+
+**Tech:** `HTML5` `CSS3` `JavaScript` `GSAP`
+
+</td>
+<td width="50%">
+
+<h3 align="center">🌤️ Advanced Weather App</h3>
+<div align="center">
+  <a href="https://aman-bam.github.io/Weather_App/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge" />
   </a>
-</p>
+  <a href="https://github.com/Aman-Bam/Weather_App">
+    <img src="https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github" />
+  </a>
+</div>
+
+**Features:**
+- 🌍 Global weather data
+- 📊 Interactive charts
+- 🔄 Real-time updates
+- 🎯 Geolocation support
+
+**Tech:** `JavaScript` `API Integration` `Chart.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3 align="center">🍎 Apple Landing Clone</h3>
+<div align="center">
+  <a href="https://aman-bam.github.io/Apple_landing_page/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Aman-Bam/Apple_landing_page">
+    <img src="https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github" />
+  </a>
+</div>
+
+**Features:**
+- 🎬 Smooth scrolling effects
+- 🎨 Pixel-perfect design
+- ⚡ Optimized performance
+- 📱 Cross-device compatibility
+
+**Tech:** `HTML5` `CSS3` `JavaScript` `Intersection Observer`
+
+</td>
+<td width="50%">
+
+<h3 align="center">🍽️ Delicious Bites Restaurant</h3>
+<div align="center">
+  <a href="https://aman-bam.github.io/Delicious-Bites-Restaurant/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Aman-Bam/Delicious-Bites-Restaurant">
+    <img src="https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github" />
+  </a>
+</div>
+
+**Features:**
+- 🛒 Dynamic menu system
+- 📅 Reservation booking
+- 💳 Payment integration ready
+- 🎨 Immersive food gallery
+
+**Tech:** `HTML5` `CSS3` `JavaScript` `Local Storage`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 **Advanced Analytics Dashboard**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,python,c,cpp,git,linux" />
-</p>
+<div align="center">
 
----
+### 📈 **Contribution Heatmap**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-Bam&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
 
-## 📊 GitHub Stats
+### 📋 **Detailed Stats Overview**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman-Bam&theme=github_dark" alt="Profile Summary" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman-Bam&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Bam&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br/>
+⏰ Coding Activity Patterns
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aman-Bam&theme=github_dark&utc_offset=5.5" alt="Productive Time" />
 
-## 🔥 GitHub Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aman-Bam&theme=dark&hide_border=true&date=20250701)](https://github.com/Aman-Bam)
-
-</p>
-
----
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-Bam&theme=github-compact" alt="Aman-Bam's GitHub Contribution Graph" />
-</p>
-
+</div>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
+## 🌍 **Global Network & Collaboration**
+
+<div align="center">
+
+### 🤝 **Let's Connect & Build Together**
+
+<a href="https://www.linkedin.com/in/aman-bam-143761371" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/amanbam__" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://twitter.com/AmanBam__" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="https://discord.gg/yourdiscord" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="mailto:amanbam6040@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=Let's+build+awesome+things+together!;Open+to+collaboration+and+internships+🚀" alt="Typing SVG" />
-</p>
+## 🎯 **Current Mission & Vision**
 
+<div align="center">
+
+<table>
+<tr>
+<td width="33%">
+
+### 🚀 **Short Term**
+- Building AI-powered web apps
+- Contributing to major OSS projects
+- Mastering cloud architecture
+- Growing developer community
+
+</td>
+<td width="33%">
+
+### 🌟 **Long Term**
+- Leading innovative tech solutions
+- Mentoring next-gen developers
+- Creating impactful products
+- Building sustainable tech ecosystem
+
+</td>
+<td width="33%">
+
+### 💡 **Always**
+- Learning cutting-edge technologies
+- Sharing knowledge through content
+- Collaborating with global teams
+- Pushing boundaries of web development
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
+## 🎮 **Fun Interactive Section**
 
+<div align="center">
 
-<p align="center">💻 Built with ❤️ by Aman Bam — Connect & Collaborate! 🚀</p>
+### 🎲 **Random Dev Quote**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+
+🎵 Development Environment
+
+<img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Terminal-Zsh-1DA1F2?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Zsh" />
+<img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+
+### 🏆 **Achievement Unlocked**
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Bam&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 💝 **Support My Work**
+
+<div align="center">
+
+If you find my projects helpful, consider supporting my work:
+
+<a href="https://www.buymeacoffee.com/amanbam" target="_blank">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+</a>
+<a href="https://ko-fi.com/amanbam" target="_blank">
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 **"Innovation distinguishes between a leader and a follower."** - *Steve Jobs*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;Let's+build+the+future+together+🚀;Always+open+to+interesting+conversations;Feel+free+to+reach+out+anytime!" alt="Closing Message" />
+
+### 🚀 **Built with passion by Aman Bam | Let's innovate together!** 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" alt="Footer Wave" />
+
+</div>
