@@ -2,7 +2,7 @@
   
 # 🌟 Aman Bam
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Tech+Innovation+Explorer" alt="Dynamic Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Tech+Innovation+Explorer" alt="Dynamic Typing" />          
 
 </div>
 
