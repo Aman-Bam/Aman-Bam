@@ -20,22 +20,12 @@
 
 </div>
 
----
-
-<div align="center">
-⚡ Real-Time Performance Matrix
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=Aman-Bam&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=00D9FF&text_color=FFFFFF&border_radius=10&custom_title=💻%20Code%20Arsenal"/>
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Bam&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&border_radius=10&custom_title=🎯%20Tech%20Stack%20Mastery"/>
-</div>
-
 <div align="center">
 🔥 Developer Streak Engine
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Aman-Bam&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 
 </p>
-
-Show Image
 </div>
 
 <div align="center">
