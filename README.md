@@ -120,8 +120,8 @@
         <a href="https://github.com/Aman-Bam/FindJob-24-7" target="_blank"><img src="https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github" /></a>
       </div>
       <br>
-      <b>Impact:</b> A full-stack job discovery platform that aggregates listings from multiple APIs (Adzuna, JSearch, Jooble) and automates the job search process around the clock.<br>
-      <b>Stack:</b>  <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code>
+      <b>Impact:</b> A job discovery web app that lets users search and browse live job listings around the clock using real-time API integrations, built with vanilla JS for a fast, lightweight experience.<br>
+      <b>Stack:</b>  <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code> <code>REST APIs</code>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🔌 Lead Extension</h3>
@@ -134,7 +134,17 @@
     </td>
   </tr>
   <tr>
-    <td width="100%" valign="top" colspan="2">
+    <td width="50%" valign="top">
+      <h3 align="center">👥 Employee Management System</h3>
+      <div align="center">
+        <a href="https://employment-system-zeta.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge" /></a>
+        <a href="https://github.com/Aman-Bam/Employee-Management-System" target="_blank"><img src="https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github" /></a>
+      </div>
+      <br>
+      <b>Impact:</b> A full-stack MERN Role-Based Employee & Task Management Dashboard. Admins create and assign tasks; employees track, accept, and complete their workloads — all with JWT authentication and a polished Tailwind v4 UI.<br>
+      <b>Stack:</b>  <code>React 19</code> <code>Vite</code> <code>Tailwind CSS v4</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">🏦 Banking System — Backend</h3>
       <div align="center">
         <a href="https://github.com/Aman-Bam/Banking-System/tree/main/Backend" target="_blank"><img src="https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github" /></a>
