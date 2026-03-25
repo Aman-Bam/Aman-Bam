@@ -1,116 +1,95 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=150&section=header&text=Aman%20Bam&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20UI/UX%20Engineer&descAlignY=55&descAlign=50" alt="Header Wave" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Building+Premium+Web+Experiences;Transforming+Ideas+Into+Reality;Next.js,+React,+Node.js+Expert;Crafting+Pixel+Perfect+UIs" alt="Dynamic Typing" />          
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aman%20Bam&fontSize=60&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20%E2%9A%A1%20Building%20Products%20That%20Matter&descAlignY=60&descAlign=50&animation=fadeIn" alt="Header" />
 
-  <p>
-    <a href="https://github.com/Aman-Bam"><img src="https://komarev.com/ghpvc/?username=Aman-Bam&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" /></a>
-    <a href="https://github.com/Aman-Bam"><img src="https://img.shields.io/github/followers/Aman-Bam?label=Followers&style=for-the-badge&color=00d9ff" alt="Followers" /></a>
-    <a href="https://github.com/Aman-Bam"><img src="https://img.shields.io/github/stars/Aman-Bam?label=Total%20Stars&style=for-the-badge&color=00d9ff" alt="Total Stars" /></a>
-  </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=55&lines=🚀+Full+Stack+MERN+Developer;⚡+Building+Scalable+Production+Systems;🔐+Auth+%7C+APIs+%7C+Real-Time+Apps;🎯+Turning+Complex+Problems+Into+Clean+Code" alt="Typing SVG" />
 
-  <p>
-    <a href="https://www.linkedin.com/in/aman-bam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://instagram.com/amanbam__" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="mailto:amanbam6040@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  </p>
-</div>
+<br/>
 
----
-
-## 🚀 **Featured Project: JobSync - The Next-Gen Job Application Platform**
-
-<div align="center">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/Aman-Bam/Aman-Bam/main/placeholder-hero.png" width="100%" alt="Job Platform Dashboard Mockup" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0, 217, 255, 0.2);" />
-  </a>
-</div>
-
-<p align="center">
-  <em>A premium full-stack React and Node.js platform designed to automate and streamline the job search process with Adzuna and Jooble API integrations.</em>
-</p>
-
-<div align="center">
-
-| 🛠️ Core Technologies | 🌟 Key Features |
-| :--- | :--- |
-| • **Frontend:** React, GSAP, CSS Variables<br>• **Backend:** Node.js, Express, JWT Auth<br>• **Data Integration:** Adzuna, JSearch APIs<br>• **State:** React Context / LocalStorage | • **Automated Discovery:** Real-time job scraping & aggregation.<br>• **Smart Profiles:** User preferences matching algorithms.<br>• **Dark UI Engine:** Custom glassmorphic, animated interface.<br>• **Secure Sync:** End-to-end multi-user JWT authentication. |
-
-  <a href="#"><img src="https://img.shields.io/badge/🔍_View_Case_Study-00D9FF?style=for-the-badge" alt="Case Study" /></a> 
-  <a href="#"><img src="https://img.shields.io/badge/💻_View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
-</div>
-
----
-
-## 🛠️ **Technical Arsenal**
-
-<div align="center">
-
-### 💻 Frontend Architecture & UI
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,vite,nextjs,figma&theme=dark" />
+<a href="https://www.linkedin.com/in/aman-bam/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/amanbam__" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:amanbam6040@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-### ⚙️ Backend, Auth & DB
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,supabase,jwt,graphql&theme=dark" />
-</a>
+<br/><br/>
 
-### 🔧 DevOps, Tools & OS
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,ubuntu,windows,vscode,postman&theme=dark" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=Aman-Bam&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Aman-Bam?label=Followers&style=for-the-badge&color=00d9ff" />
+<img src="https://img.shields.io/github/stars/Aman-Bam?label=Total%20Stars&style=for-the-badge&color=a855f7" />
 
 </div>
 
 ---
 
-## 🎯 **Premium Portfolio Collection**
+<div align="center">
+
+## ⚡ The Developer Behind the Code
+
+</div>
+
+```typescript
+const AmanBam = {
+  role        : "Full Stack Developer",
+  focus       : ["MERN Stack", "Chrome Extensions", "REST APIs", "Auth Systems"],
+  currentlyOn : "Building production-grade banking & job platforms",
+  techPhilosophy : "Clean architecture + beautiful UI = products people love",
+  openTo      : ["Collaborations", "Freelance", "Full-time Roles"],
+  contact     : "amanbam6040@gmail.com",
+};
+```
+
+---
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+### ⚛️ Frontend
+
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,vite,nextjs&theme=dark" />
+
+### 🔧 Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase&theme=dark" />
+
+### 🚀 Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,docker,postman,vscode,figma&theme=dark" />
+
+</div>
+
+---
+
+## 🏆 Premium Portfolio — Production-Grade Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎨 Apuni Sarkar</h3>
-      <div align="center"><img src="https://img.shields.io/badge/🏆_Hackathon_Winning_Project-FFD700?style=for-the-badge" /></div>
+      <h3 align="center">🏆 Apuni Sarkar</h3>
       <div align="center">
+        <img src="https://img.shields.io/badge/🥇_Hackathon_Winning_Project-FFD700?style=for-the-badge" />
+        <br/><br/>
         <a href="https://apuni-sarkar-citizen-services-done.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge" /></a>
         <a href="https://github.com/Aman-Bam/Apuni_Sarkar" target="_blank"><img src="https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github" /></a>
       </div>
-      <br>
-      <b>Impact:</b> High-performance citizen services portal with custom GSAP animations and responsive design.<br>
-      <b>Stack:</b>  <code>HTML5</code> <code>CSS3</code> <code>JS</code> <code>GSAP</code>
+      <br/>
+      <b>Impact:</b> Award-winning citizen services portal built for a national hackathon. Features custom GSAP scroll animations, interactive service dashboards, and a fully responsive government-grade UI.<br/>
+      <b>Stack:</b> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>GSAP</code>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌤️ Advanced Weather App</h3>
+      <h3 align="center">👥 Employee Management System</h3>
       <div align="center">
-        <a href="https://aman-bam.github.io/Weather_App/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge" /></a>
-        <a href="https://github.com/Aman-Bam/Weather_App" target="_blank"><img src="https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github" /></a>
+        <a href="https://employment-system-zeta.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge" /></a>
+        <a href="https://github.com/Aman-Bam/Employee-Management-System" target="_blank"><img src="https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github" /></a>
       </div>
-      <br>
-      <b>Impact:</b> Real-time global weather tracking with interactive charts and precise geolocation capabilities.<br>
-      <b>Stack:</b>  <code>JS</code> <code>Chart.js</code> <code>REST APIs</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🍎 Apple Landing Clone</h3>
-      <div align="center">
-        <a href="https://aman-bam.github.io/Apple_landing_page/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge" /></a>
-        <a href="https://github.com/Aman-Bam/Apple_landing_page" target="_blank"><img src="https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github" /></a>
-      </div>
-      <br>
-      <b>Impact:</b> Pixel-perfect recreation of Apple's flagship landing page focusing on scroll animations.<br>
-      <b>Stack:</b>  <code>HTML5</code> <code>CSS3</code> <code>JS</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🍽️ Delicious Bites</h3>
-      <div align="center">
-        <a href="https://aman-bam.github.io/Delicious-Bites-Restaurant/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge" /></a>
-        <a href="https://github.com/Aman-Bam/Delicious-Bites-Restaurant" target="_blank"><img src="https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github" /></a>
-      </div>
-      <br>
-      <b>Impact:</b> Premium restaurant web experience featuring dynamic menus and reservation bookings.<br>
-      <b>Stack:</b>  <code>HTML5</code> <code>Vanilla JS</code> <code>LocalStorage</code>
+      <br/>
+      <b>Impact:</b> Full-stack MERN Role-Based employee & task management dashboard. Admins assign tasks; employees track, accept, and complete them — secured with JWT and wrapped in a Tailwind v4 UI.<br/>
+      <b>Stack:</b> <code>React 19</code> <code>Vite</code> <code>Tailwind v4</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code>
     </td>
   </tr>
   <tr>
@@ -119,72 +98,64 @@
       <div align="center">
         <a href="https://github.com/Aman-Bam/FindJob-24-7" target="_blank"><img src="https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github" /></a>
       </div>
-      <br>
-      <b>Impact:</b> A job discovery web app that lets users search and browse live job listings around the clock using real-time API integrations, built with vanilla JS for a fast, lightweight experience.<br>
-      <b>Stack:</b>  <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code> <code>REST APIs</code>
+      <br/>
+      <b>Impact:</b> A round-the-clock job discovery web app with real-time API integrations — letting users search, filter, and explore live job listings instantly. Built lightweight and blazing fast.<br/>
+      <b>Stack:</b> <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code> <code>REST APIs</code>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🔌 Lead Extension</h3>
       <div align="center">
         <a href="https://github.com/Aman-Bam/lead-Extension" target="_blank"><img src="https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github" /></a>
       </div>
-      <br>
-      <b>Impact:</b> A powerful Chrome browser extension for automated lead capturing and job application tracking with a premium glassmorphic UI and backend sync.<br>
-      <b>Stack:</b>  <code>Chrome Extension API</code> <code>React</code> <code>Node.js</code> <code>MongoDB</code>
+      <br/>
+      <b>Impact:</b> A premium Chrome browser extension for automated lead capturing and job application tracking — featuring a glassmorphic popup UI, multi-section dashboard, and full backend sync via JWT auth.<br/>
+      <b>Stack:</b> <code>Chrome Extension API</code> <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>JWT</code>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">👥 Employee Management System</h3>
-      <div align="center">
-        <a href="https://employment-system-zeta.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge" /></a>
-        <a href="https://github.com/Aman-Bam/Employee-Management-System" target="_blank"><img src="https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github" /></a>
-      </div>
-      <br>
-      <b>Impact:</b> A full-stack MERN Role-Based Employee & Task Management Dashboard. Admins create and assign tasks; employees track, accept, and complete their workloads — all with JWT authentication and a polished Tailwind v4 UI.<br>
-      <b>Stack:</b>  <code>React 19</code> <code>Vite</code> <code>Tailwind CSS v4</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code>
-    </td>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top" colspan="2">
       <h3 align="center">🏦 Banking System — Backend</h3>
       <div align="center">
         <a href="https://github.com/Aman-Bam/Banking-System/tree/main/Backend" target="_blank"><img src="https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github" /></a>
       </div>
-      <br>
-      <b>Impact:</b> A production-grade financial ledger backend with strict ACID compliance, double-entry bookkeeping, concurrency control, JWT authentication, idempotency guarantees, and built-in drift detection for high-integrity banking operations.<br>
-      <b>Stack:</b>  <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code> <code>Zod</code> <code>Winston</code> <code>Jest</code>
+      <br/>
+      <b>Impact:</b> A rigorous, production-grade financial ledger backend with strict ACID compliance, double-entry bookkeeping, snapshot-isolated concurrency control, idempotency keys, JWT authentication, Winston logging, and built-in drift detection — zero tolerance for financial inconsistencies.<br/>
+      <b>Stack:</b> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Mongoose</code> <code>JWT</code> <code>Zod</code> <code>Winston</code> <code>Jest</code> <code>Supertest</code>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 **Engineering Analytics & Stats**
+## 📊 GitHub Intelligence
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aman-Bam&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Bam&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aman-Bam&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=a855f7&bg_color=0d1117&text_color=c9d1d9&ring_color=00D9FF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Bam&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0d1117&text_color=c9d1d9" width="49%" />
 
-<br>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-Bam&theme=tokyonight&hide_border=true&bg_color=1a1b26&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%" />
+<img src="https://streak-stats.demolab.com?user=Aman-Bam&theme=tokyonight&hide_border=true&fire=00D9FF&ring=a855f7&currStreakLabel=00D9FF&sideLabels=00D9FF" width="60%" />
 
-<br>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=Aman-Bam&theme=tokyonight&hide_border=true&fire=00D9FF&ring=00D9FF" width="60%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-Bam&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D9FF&line=a855f7&point=ffffff" width="100%" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote_color=00D9FF" alt="Random Dev Quote" />
-  
-  <br><br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thank+you+for+stopping+by!;Let's+build+something+amazing+together+🚀;Feel+free+to+reach+out+anytime!" alt="Closing Message" />
-</div>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote_color=00D9FF" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" alt="Footer Wave" />
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1000&color=a855f7&center=true&vCenter=true&width=650&lines=Let's+build+something+the+world+hasn't+seen+yet+🚀;Open+to+collaborations+%26+exciting+opportunities!;Drop+a+⭐+if+you+like+what+you+see!" alt="Closing" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
 </div>
