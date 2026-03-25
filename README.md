@@ -71,6 +71,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🎨 Apuni Sarkar</h3>
+      <div align="center"><img src="https://img.shields.io/badge/🏆_Hackathon_Winning_Project-FFD700?style=for-the-badge" /></div>
       <div align="center">
         <a href="https://apuni-sarkar-citizen-services-done.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge" /></a>
         <a href="https://github.com/Aman-Bam/Apuni_Sarkar" target="_blank"><img src="https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github" /></a>
@@ -110,6 +111,37 @@
       <br>
       <b>Impact:</b> Premium restaurant web experience featuring dynamic menus and reservation bookings.<br>
       <b>Stack:</b>  <code>HTML5</code> <code>Vanilla JS</code> <code>LocalStorage</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔍 FindJob 24/7</h3>
+      <div align="center">
+        <a href="https://github.com/Aman-Bam/FindJob-24-7" target="_blank"><img src="https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github" /></a>
+      </div>
+      <br>
+      <b>Impact:</b> A full-stack job discovery platform that aggregates listings from multiple APIs (Adzuna, JSearch, Jooble) and automates the job search process around the clock.<br>
+      <b>Stack:</b>  <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔌 Lead Extension</h3>
+      <div align="center">
+        <a href="https://github.com/Aman-Bam/lead-Extension" target="_blank"><img src="https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github" /></a>
+      </div>
+      <br>
+      <b>Impact:</b> A powerful Chrome browser extension for automated lead capturing and job application tracking with a premium glassmorphic UI and backend sync.<br>
+      <b>Stack:</b>  <code>Chrome Extension API</code> <code>React</code> <code>Node.js</code> <code>MongoDB</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" colspan="2">
+      <h3 align="center">🏦 Banking System — Backend</h3>
+      <div align="center">
+        <a href="https://github.com/Aman-Bam/Banking-System/tree/main/Backend" target="_blank"><img src="https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github" /></a>
+      </div>
+      <br>
+      <b>Impact:</b> A production-grade financial ledger backend with strict ACID compliance, double-entry bookkeeping, concurrency control, JWT authentication, idempotency guarantees, and built-in drift detection for high-integrity banking operations.<br>
+      <b>Stack:</b>  <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code> <code>Zod</code> <code>Winston</code> <code>Jest</code>
     </td>
   </tr>
 </table>
