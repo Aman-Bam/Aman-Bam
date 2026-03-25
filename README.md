@@ -67,60 +67,83 @@ const AmanBam = {
 
 ## 🏆 Premium Portfolio — Production-Grade Projects
 
-<table>
+<table bordercolor="#30363d">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏆 Apuni Sarkar</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/🥇_Hackathon_Winning_Project-FFD700?style=for-the-badge" />
-        <br/><br/>
-        <a href="https://apuni-sarkar-citizen-services-done.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge" /></a>
-        <a href="https://github.com/Aman-Bam/Apuni_Sarkar" target="_blank"><img src="https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github" /></a>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Aman-Bam/Apuni_Sarkar" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Aman-Bam/Apuni_Sarkar" alt="Apuni Sarkar" width="100%" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🥇_Hackathon_Winner-FFD700?style=for-the-badge" />
+      <br/><br/>
+      <p align="left">Award-winning citizen services portal built for a national hackathon. Features custom GSAP scroll animations, interactive service dashboards, and a fully responsive government-grade UI.</p>
+      <div align="left">
+        <a href="https://apuni-sarkar-citizen-services-done.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/Aman-Bam/Apuni_Sarkar" target="_blank"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </div>
       <br/>
-      <b>Impact:</b> Award-winning citizen services portal built for a national hackathon. Features custom GSAP scroll animations, interactive service dashboards, and a fully responsive government-grade UI.<br/>
-      <b>Stack:</b> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>GSAP</code>
+      <div align="left"><code>HTML5</code> <code>CSS3</code> <code>JS</code> <code>GSAP</code></div>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">👥 Employee Management System</h3>
-      <div align="center">
-        <a href="https://employment-system-zeta.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge" /></a>
-        <a href="https://github.com/Aman-Bam/Employee-Management-System" target="_blank"><img src="https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github" /></a>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Aman-Bam/Employee-Management-System" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Aman-Bam/Employee-Management-System" alt="Employee Management System" width="100%" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🚀_Full_Stack-a855f7?style=for-the-badge" />
+      <br/><br/>
+      <p align="left">Full-stack MERN Role-Based employee & task management dashboard. Admins assign tasks; employees track, accept, and complete them — secured with JWT and wrapped in a Tailwind v4 UI.</p>
+      <div align="left">
+        <a href="https://employment-system-zeta.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/Aman-Bam/Employee-Management-System" target="_blank"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </div>
       <br/>
-      <b>Impact:</b> Full-stack MERN Role-Based employee & task management dashboard. Admins assign tasks; employees track, accept, and complete them — secured with JWT and wrapped in a Tailwind v4 UI.<br/>
-      <b>Stack:</b> <code>React 19</code> <code>Vite</code> <code>Tailwind v4</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code>
+      <div align="left"><code>React 19</code> <code>Tailwind v4</code> <code>Node.js</code> <code>MongoDB</code></div>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔍 FindJob 24/7</h3>
-      <div align="center">
-        <a href="https://github.com/Aman-Bam/FindJob-24-7" target="_blank"><img src="https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github" /></a>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Aman-Bam/lead-Extension" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Aman-Bam/lead-Extension" alt="Lead Extension" width="100%" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🧩_Chrome_Extension-4285F4?style=for-the-badge" />
+      <br/><br/>
+      <p align="left">A premium Chrome browser extension for automated lead capturing and job application tracking — featuring a glassmorphic popup UI, multi-section dashboard, and full backend sync via JWT auth.</p>
+      <div align="left">
+        <a href="https://github.com/Aman-Bam/lead-Extension" target="_blank"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </div>
       <br/>
-      <b>Impact:</b> A round-the-clock job discovery web app with real-time API integrations — letting users search, filter, and explore live job listings instantly. Built lightweight and blazing fast.<br/>
-      <b>Stack:</b> <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code> <code>REST APIs</code>
+      <div align="left"><code>Extension API</code> <code>React</code> <code>Node.js</code> <code>MongoDB</code></div>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔌 Lead Extension</h3>
-      <div align="center">
-        <a href="https://github.com/Aman-Bam/lead-Extension" target="_blank"><img src="https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github" /></a>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Aman-Bam/FindJob-24-7" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Aman-Bam/FindJob-24-7" alt="FindJob 24/7" width="100%" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🔍_Web_App-00D9FF?style=for-the-badge" />
+      <br/><br/>
+      <p align="left">A round-the-clock job discovery web app with real-time API integrations — letting users search, filter, and explore live job listings instantly. Built lightweight and blazing fast.</p>
+      <div align="left">
+        <a href="https://github.com/Aman-Bam/FindJob-24-7" target="_blank"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </div>
       <br/>
-      <b>Impact:</b> A premium Chrome browser extension for automated lead capturing and job application tracking — featuring a glassmorphic popup UI, multi-section dashboard, and full backend sync via JWT auth.<br/>
-      <b>Stack:</b> <code>Chrome Extension API</code> <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>JWT</code>
+      <div align="left"><code>JavaScript</code> <code>HTML5</code> <code>CSS3</code> <code>REST APIs</code></div>
     </td>
   </tr>
   <tr>
-    <td width="100%" valign="top" colspan="2">
-      <h3 align="center">🏦 Banking System — Backend</h3>
+    <td width="100%" valign="top" align="center" colspan="2">
+      <a href="https://github.com/Aman-Bam/Banking-System/tree/main/Backend" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Aman-Bam/Banking-System" alt="Banking System Backend" width="100%" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🏦_FinTech_Architecture-10B981?style=for-the-badge" />
+      <br/><br/>
+      <p align="center" style="max-width: 800px;">A rigorous, production-grade financial ledger backend with strict ACID compliance, double-entry bookkeeping, snapshot-isolated concurrency control, idempotency keys, JWT authentication, Winston logging, and built-in drift detection — zero tolerance for financial inconsistencies.</p>
       <div align="center">
-        <a href="https://github.com/Aman-Bam/Banking-System/tree/main/Backend" target="_blank"><img src="https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github" /></a>
+        <a href="https://github.com/Aman-Bam/Banking-System/tree/main/Backend" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </div>
       <br/>
-      <b>Impact:</b> A rigorous, production-grade financial ledger backend with strict ACID compliance, double-entry bookkeeping, snapshot-isolated concurrency control, idempotency keys, JWT authentication, Winston logging, and built-in drift detection — zero tolerance for financial inconsistencies.<br/>
-      <b>Stack:</b> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Mongoose</code> <code>JWT</code> <code>Zod</code> <code>Winston</code> <code>Jest</code> <code>Supertest</code>
+      <div align="center"><code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Mongoose</code> <code>JWT</code> <code>Zod</code> <code>Winston</code> <code>Jest</code></div>
     </td>
   </tr>
 </table>
