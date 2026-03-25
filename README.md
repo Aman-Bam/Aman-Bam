@@ -42,12 +42,12 @@
 <tr>
 <td width="50%">
 
-<h3 align="center">🎨 Next-Gen Portfolio</h3>
+<h3 align="center">🎨Apuni Sarkar</h3>
 <div align="center">
-  <a href="https://aman-bam.github.io/Next-Gen-Portfolio/">
+  <a href="https://apuni-sarkar-citizen-services-done.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge" />
   </a>
-  <a href="https://github.com/Aman-Bam/Next-Gen-Portfolio">
+  <a href="https://github.com/Aman-Bam/Apuni_Sarkar">
     <img src="https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github" />
   </a>
 </div>
