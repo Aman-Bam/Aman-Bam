@@ -120,7 +120,7 @@ const AmanBam = {
         <img src="https://opengraph.githubassets.com/1/Aman-Bam/FindJob-24-7" alt="FindJob 24/7" width="100%" />
       </a>
       <br/><br/>
-      <img src="https://img.shields.io/badge/🔍_Web_App-00D9FF?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/🧩_Chrome_Extension-4285F4?style=for-the-badge" />
       <br/><br/>
       <p align="left">A round-the-clock job discovery web app with real-time API integrations — letting users search, filter, and explore live job listings instantly. Built lightweight and blazing fast.</p>
       <div align="left">
