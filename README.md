@@ -39,7 +39,7 @@ const AmanBam = {
   currentlyOn : "Building production-grade banking & job platforms",
   techPhilosophy : "Clean architecture + beautiful UI = products people love",
   openTo      : ["Collaborations", "Freelance", "Full-time Roles"],
-  contact     : "amanbam6040@gmail.com",
+  contact     : "amanbam604@gmail.com",
 };
 ```
 
